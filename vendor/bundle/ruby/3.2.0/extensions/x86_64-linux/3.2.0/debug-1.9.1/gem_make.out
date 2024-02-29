@@ -1,0 +1,19 @@
+current directory: /home/dev08/PriorityList/vendor/bundle/ruby/3.2.0/gems/debug-1.9.1/ext/debug
+/home/dev08/.asdf/installs/ruby/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/dev08/PriorityList/vendor/bundle/ruby/3.2.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240301-16409-ey5twv sitelibdir\=./.gem.20240301-16409-ey5twv clean
+
+current directory: /home/dev08/PriorityList/vendor/bundle/ruby/3.2.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240301-16409-ey5twv sitelibdir\=./.gem.20240301-16409-ey5twv
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/dev08/PriorityList/vendor/bundle/ruby/3.2.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240301-16409-ey5twv sitelibdir\=./.gem.20240301-16409-ey5twv install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240301-16409-ey5twv/debug
+
+current directory: /home/dev08/PriorityList/vendor/bundle/ruby/3.2.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240301-16409-ey5twv sitelibdir\=./.gem.20240301-16409-ey5twv clean
